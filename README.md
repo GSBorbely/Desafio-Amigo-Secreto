@@ -1,6 +1,6 @@
 # Descrição
-Este projeto é resultado de um Challenge do programa Oracle Next Education (ONE), da Oracle em parceria com a Alura. Neste desafio, tinhamos que criar um programa que recebe nomes através de um input em HTML, colocá-los em uma lista na própria página e sortear um dos nomes.
-É possivel acessar a página através deste [link](https://gsborbely.github.io/Desafio-Amigo-Secreto/) no GitHub Pages! 
+Este projeto é resultado de um Challenge do programa Oracle Next Education (ONE) da Oracle em parceria com a Alura. Neste desafio, tinhamos que criar uma página que, através de programação em Javascript, recebe nomes através de um input em HTML, colocá-los em uma lista na própria página e sortear um dos nomes.
+É possivel acessar e testar a página através deste [link](https://gsborbely.github.io/Desafio-Amigo-Secreto/) no GitHub Pages! 
 
 
 <br> <img src= "/assets/amigo-secreto-main.png" style = "heigt: 70px;" img > </br>
