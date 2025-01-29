@@ -24,7 +24,7 @@ Este projeto é resultado de um Challenge do programa Oracle Next Education (ONE
 - ``CSS``
 
 ##  Acesso ao projeto
-Você pode [acessar o código do projeto](https://github.com/GSBorbely/Desafio-Amigo-Secreto/tree/main) ou [baixá-lo].(https://github.com/GSBorbely/Desafio-Amigo-Secreto/archive/refs/heads/main.zip)
+Você pode [acessar o código do projeto](https://github.com/GSBorbely/Desafio-Amigo-Secreto/tree/main) ou [baixá-lo](https://github.com/GSBorbely/Desafio-Amigo-Secreto/archive/refs/heads/main.zip).
 
 Acesse também pelo [GitHub Pages](https://gsborbely.github.io/Desafio-Amigo-Secreto/)!
 
