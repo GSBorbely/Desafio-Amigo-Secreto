@@ -52,8 +52,9 @@ function sortearAmigo () {
     let nomeSorteado = parseInt(Math.floor(Math.random() *amigos.length)); // percorre a Array e sorteia um índice aleatório
     let resultadoSorteio = document.querySelector('#resultado'); 
     resultadoSorteio.textContent = (`O amigo secreto sorteado é ${amigos[nomeSorteado]}`); // apresenta o resultado na página. 
-
-       
+    
+    amigos = []; 
+    listaNomes(); // Atualiza a lista para retirar os nomes da interface. 
    
      
 
